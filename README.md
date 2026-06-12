@@ -81,6 +81,8 @@ Your browser opens at `http://localhost:8501`.
 
 Press **Ctrl + C** in the terminal to stop the dashboard.
 
+![Citi Bike Dashboard](docs/dashboard.png)
+
 ### What the dashboard shows
 
 | Section | Description |
@@ -90,16 +92,6 @@ Press **Ctrl + C** in the terminal to stop the dashboard.
 | **Trips by weekday** | Bar chart (Mon–Sun) |
 | **Trips by month** | Line chart across 2018 |
 | **Raw data** | Expandable table of station results |
-
-### Add a screenshot to the README (optional)
-
-1. With the dashboard open, take a screenshot.
-2. Save it as `docs/dashboard.png`.
-3. Add this line under **Run the dashboard**:
-
-```markdown
-![Citi Bike Dashboard](docs/dashboard.png)
-```
 
 ## Scripts
 
